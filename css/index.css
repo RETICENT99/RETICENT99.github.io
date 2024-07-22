@@ -1504,7 +1504,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(/source/images/1.png);
+  background: url(https://s3.bmp.ovh/imgs/2024/07/22/a1488bdeeacc938f.png);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -3346,7 +3346,7 @@ h1.page-title + .tag-cloud-list {
   transition: all 0.5s;
 }
 #page-header.full_page {
-  height: 400px;
+  height: 600px;
   background-attachment: fixed;
 }
 #page-header.full_page #site-info {
